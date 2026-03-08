@@ -2,12 +2,11 @@
                        🏎️  BMW M4 SIMULATOR - QUICK START GUIDE
 ═════════════════════════════════════════════════════════════════════════════════
 
-🎮 Cum rulezi simulatorul (Quick Start)
-
-Instalează Pygame: Deschide un terminal (CMD) și scrie pip install pygame.
-Lansează Programul: Rulează direct fișierul launch_simple.py. Acesta va deschide automat ambele ecrane (Dashboard și Sport Display).
-Alege Dimensiunea: În consola care se deschide, apasă 1 și apoi ENTER pentru dimensiunea Standard (recomandată).
-Control Mașină: Folosește SPACE pentru turații în Neutral, ENTER pentru accelerație în Drive și SHIFT pentru frână.
+🎮 Quick Start Guide
+1)Install Pygame: Open a terminal (CMD) and run: pip install pygame.
+2)Launch the Program: Run the launch_simple.py file. This script automatically opens both the Dashboard and the Sport Display.
+3)Select Window Size: In the console that appears, press 1 and then ENTER to select the Standard size (recommended).
+4)Vehicle Controls: * SPACE: Rev the engine in Neutral (N).ENTER: Accelerate in Drive (D) to see live Power and Torque.SHIFT: Apply the Brake to decelerate.
 
 ═════════════════════════════════════════════════════════════════════════════════
 
@@ -107,4 +106,5 @@ Control Mașină: Folosește SPACE pentru turații în Neutral, ENTER pentru acc
    5. Close either window to stop the simulator
 
 ═════════════════════════════════════════════════════════════════════════════════
+
 
